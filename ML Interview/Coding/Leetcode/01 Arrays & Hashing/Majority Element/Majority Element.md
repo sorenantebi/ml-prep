@@ -1,0 +1,5 @@
+# Majority Element
+
+```python
+
+```

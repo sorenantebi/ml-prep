@@ -1,0 +1,5 @@
+# Detect Squares
+
+```python
+
+```
