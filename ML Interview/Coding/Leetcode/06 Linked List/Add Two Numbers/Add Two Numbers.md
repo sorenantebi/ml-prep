@@ -1,5 +1,0 @@
-# Add Two Numbers
-
-```python
-
-```

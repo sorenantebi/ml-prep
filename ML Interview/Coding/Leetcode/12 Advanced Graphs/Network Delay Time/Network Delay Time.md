@@ -1,5 +1,0 @@
-# Network Delay Time
-
-```python
-
-```

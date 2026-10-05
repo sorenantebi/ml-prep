@@ -1,5 +1,0 @@
-# Maximum Product Subarray
-
-```python
-
-```

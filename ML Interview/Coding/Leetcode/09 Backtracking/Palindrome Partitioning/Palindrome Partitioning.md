@@ -1,5 +1,0 @@
-# Palindrome Partitioning
-
-```python
-
-```

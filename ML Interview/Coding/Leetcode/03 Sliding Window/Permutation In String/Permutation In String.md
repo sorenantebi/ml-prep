@@ -1,5 +1,0 @@
-# Permutation In String
-
-```python
-
-```

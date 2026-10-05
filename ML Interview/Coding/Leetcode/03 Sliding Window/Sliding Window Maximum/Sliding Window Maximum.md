@@ -1,5 +1,0 @@
-# Sliding Window Maximum
-
-```python
-
-```

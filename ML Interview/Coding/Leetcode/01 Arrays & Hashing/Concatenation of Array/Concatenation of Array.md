@@ -1,5 +1,0 @@
-# Concatenation of Array
-
-```python
-
-```

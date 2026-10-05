@@ -1,5 +1,0 @@
-# Minimum Window Substring
-
-```python
-
-```

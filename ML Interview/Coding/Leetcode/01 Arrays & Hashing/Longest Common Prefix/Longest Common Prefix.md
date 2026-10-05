@@ -1,5 +1,0 @@
-# Longest Common Prefix
-
-```python
-
-```

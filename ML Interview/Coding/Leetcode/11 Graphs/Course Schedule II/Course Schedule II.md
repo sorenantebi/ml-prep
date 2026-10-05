@@ -1,5 +1,0 @@
-# Course Schedule II
-
-```python
-
-```

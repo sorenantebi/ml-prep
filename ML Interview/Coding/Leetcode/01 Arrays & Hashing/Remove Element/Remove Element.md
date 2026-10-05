@@ -1,5 +1,0 @@
-# Remove Element
-
-```python
-
-```

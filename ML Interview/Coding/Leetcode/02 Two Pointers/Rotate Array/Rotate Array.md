@@ -1,5 +1,0 @@
-# Rotate Array
-
-```python
-
-```

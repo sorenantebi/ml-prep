@@ -1,5 +1,0 @@
-# Valid Palindrome
-
-```python
-
-```

@@ -1,5 +1,0 @@
-# First Missing Positive
-
-```python
-
-```

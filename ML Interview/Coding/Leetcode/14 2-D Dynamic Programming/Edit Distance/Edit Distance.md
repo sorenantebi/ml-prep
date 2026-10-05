@@ -1,5 +1,0 @@
-# Edit Distance
-
-```python
-
-```

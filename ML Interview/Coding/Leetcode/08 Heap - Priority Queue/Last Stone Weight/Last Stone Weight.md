@@ -1,5 +1,0 @@
-# Last Stone Weight
-
-```python
-
-```

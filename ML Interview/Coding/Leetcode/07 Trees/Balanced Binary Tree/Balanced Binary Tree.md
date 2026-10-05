@@ -1,5 +1,0 @@
-# Balanced Binary Tree
-
-```python
-
-```

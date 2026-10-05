@@ -1,5 +1,0 @@
-# Subsets II
-
-```python
-
-```

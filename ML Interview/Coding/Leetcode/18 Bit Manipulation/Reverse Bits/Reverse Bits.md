@@ -1,5 +1,0 @@
-# Reverse Bits
-
-```python
-
-```

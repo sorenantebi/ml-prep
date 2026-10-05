@@ -1,5 +1,0 @@
-# Word Search
-
-```python
-
-```

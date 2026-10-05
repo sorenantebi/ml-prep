@@ -1,5 +1,0 @@
-# Graph Valid Tree
-
-```python
-
-```

@@ -1,5 +1,0 @@
-# Valid Sudoku
-
-```python
-
-```

@@ -1,5 +1,0 @@
-# Coin Change II
-
-```python
-
-```

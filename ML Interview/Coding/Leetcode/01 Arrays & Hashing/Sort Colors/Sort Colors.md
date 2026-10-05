@@ -1,5 +1,0 @@
-# Sort Colors
-
-```python
-
-```

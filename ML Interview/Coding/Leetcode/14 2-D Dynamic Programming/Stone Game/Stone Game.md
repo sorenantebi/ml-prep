@@ -1,5 +1,0 @@
-# Stone Game
-
-```python
-
-```

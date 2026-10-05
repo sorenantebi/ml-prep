@@ -1,5 +1,0 @@
-# Non Overlapping Intervals
-
-```python
-
-```

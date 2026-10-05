@@ -1,5 +1,0 @@
-# Merge Sorted Array
-
-```python
-
-```

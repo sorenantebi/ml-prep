@@ -1,5 +1,0 @@
-# Rotting Oranges
-
-```python
-
-```

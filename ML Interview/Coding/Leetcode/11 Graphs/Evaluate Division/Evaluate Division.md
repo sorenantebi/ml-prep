@@ -1,5 +1,0 @@
-# Evaluate Division
-
-```python
-
-```

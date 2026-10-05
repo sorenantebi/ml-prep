@@ -1,5 +1,0 @@
-# Majority Element II
-
-```python
-
-```

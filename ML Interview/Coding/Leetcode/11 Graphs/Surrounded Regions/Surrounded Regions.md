@@ -1,5 +1,0 @@
-# Surrounded Regions
-
-```python
-
-```

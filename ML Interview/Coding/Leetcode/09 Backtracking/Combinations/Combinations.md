@@ -1,5 +1,0 @@
-# Combinations
-
-```python
-
-```

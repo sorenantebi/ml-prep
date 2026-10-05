@@ -1,5 +1,0 @@
-# Design HashSet
-
-```python
-
-```

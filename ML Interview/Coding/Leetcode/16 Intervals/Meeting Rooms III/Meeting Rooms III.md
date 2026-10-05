@@ -1,5 +1,0 @@
-# Meeting Rooms III
-
-```python
-
-```

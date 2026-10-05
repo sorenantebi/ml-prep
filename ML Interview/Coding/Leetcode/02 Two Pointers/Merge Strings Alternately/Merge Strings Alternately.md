@@ -1,5 +1,0 @@
-# Merge Strings Alternately
-
-```python
-
-```

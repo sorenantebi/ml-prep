@@ -1,5 +1,0 @@
-# Minimum Height Trees
-
-```python
-
-```

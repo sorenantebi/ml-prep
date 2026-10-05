@@ -1,5 +1,0 @@
-# Burst Balloons
-
-```python
-
-```

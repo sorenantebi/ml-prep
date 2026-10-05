@@ -1,5 +1,0 @@
-# Valid Anagram
-
-```python
-
-```

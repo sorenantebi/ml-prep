@@ -1,5 +1,0 @@
-# Reconstruct Itinerary
-
-```python
-
-```

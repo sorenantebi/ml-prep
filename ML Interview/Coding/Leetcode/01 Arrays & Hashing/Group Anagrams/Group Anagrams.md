@@ -1,5 +1,0 @@
-# Group Anagrams
-
-```python
-
-```

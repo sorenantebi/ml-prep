@@ -1,5 +1,0 @@
-# Valid Parentheses
-
-```python
-
-```

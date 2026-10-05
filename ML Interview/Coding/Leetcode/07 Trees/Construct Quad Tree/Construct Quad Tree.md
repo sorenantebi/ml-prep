@@ -1,5 +1,0 @@
-# Construct Quad Tree
-
-```python
-
-```

@@ -1,5 +1,0 @@
-# LRU Cache
-
-```python
-
-```

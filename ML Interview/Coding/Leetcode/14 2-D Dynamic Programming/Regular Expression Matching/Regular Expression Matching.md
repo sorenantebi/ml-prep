@@ -1,5 +1,0 @@
-# Regular Expression Matching
-
-```python
-
-```

@@ -1,5 +1,0 @@
-# Single Number
-
-```python
-
-```

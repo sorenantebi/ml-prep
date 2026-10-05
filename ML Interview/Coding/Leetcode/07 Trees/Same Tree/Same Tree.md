@@ -1,5 +1,0 @@
-# Same Tree
-
-```python
-
-```

@@ -1,5 +1,0 @@
-# Reorganize String
-
-```python
-
-```

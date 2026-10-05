@@ -1,5 +1,0 @@
-# Clone Graph
-
-```python
-
-```

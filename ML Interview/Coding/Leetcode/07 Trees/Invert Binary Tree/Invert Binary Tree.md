@@ -1,5 +1,0 @@
-# Invert Binary Tree
-
-```python
-
-```

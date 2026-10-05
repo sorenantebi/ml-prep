@@ -1,5 +1,0 @@
-# Car Pooling
-
-```python
-
-```

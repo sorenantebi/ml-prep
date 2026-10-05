@@ -1,5 +1,0 @@
-# Longest Increasing Subsequence
-
-```python
-
-```

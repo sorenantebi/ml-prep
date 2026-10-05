@@ -1,5 +1,0 @@
-# Lemonade Change
-
-```python
-
-```

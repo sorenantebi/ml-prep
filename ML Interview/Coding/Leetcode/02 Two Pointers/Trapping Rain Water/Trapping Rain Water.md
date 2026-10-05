@@ -1,5 +1,0 @@
-# Trapping Rain Water
-
-```python
-
-```

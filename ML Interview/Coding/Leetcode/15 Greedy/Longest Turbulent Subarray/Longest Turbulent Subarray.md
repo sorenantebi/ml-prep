@@ -1,5 +1,0 @@
-# Longest Turbulent Subarray
-
-```python
-
-```

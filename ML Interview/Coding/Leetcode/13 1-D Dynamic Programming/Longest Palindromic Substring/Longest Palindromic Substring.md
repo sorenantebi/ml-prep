@@ -1,5 +1,0 @@
-# Longest Palindromic Substring
-
-```python
-
-```

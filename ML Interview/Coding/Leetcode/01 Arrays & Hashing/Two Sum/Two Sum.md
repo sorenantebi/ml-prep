@@ -1,5 +1,0 @@
-# Two Sum
-
-```python
-
-```

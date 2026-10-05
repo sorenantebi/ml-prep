@@ -1,5 +1,0 @@
-# Open The Lock
-
-```python
-
-```

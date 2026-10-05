@@ -1,5 +1,0 @@
-# Merge Intervals
-
-```python
-
-```

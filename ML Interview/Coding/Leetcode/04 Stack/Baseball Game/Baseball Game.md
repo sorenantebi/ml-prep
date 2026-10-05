@@ -1,5 +1,0 @@
-# Baseball Game
-
-```python
-
-```

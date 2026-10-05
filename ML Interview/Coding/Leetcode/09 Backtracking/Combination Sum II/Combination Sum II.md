@@ -1,5 +1,0 @@
-# Combination Sum II
-
-```python
-
-```

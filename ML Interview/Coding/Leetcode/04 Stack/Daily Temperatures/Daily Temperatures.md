@@ -1,5 +1,0 @@
-# Daily Temperatures
-
-```python
-
-```

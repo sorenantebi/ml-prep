@@ -1,5 +1,0 @@
-# Climbing Stairs
-
-```python
-
-```

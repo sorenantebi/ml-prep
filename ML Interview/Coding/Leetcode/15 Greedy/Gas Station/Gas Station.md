@@ -1,5 +1,0 @@
-# Gas Station
-
-```python
-
-```

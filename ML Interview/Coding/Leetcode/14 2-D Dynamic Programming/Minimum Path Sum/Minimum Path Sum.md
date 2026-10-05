@@ -1,5 +1,0 @@
-# Minimum Path Sum
-
-```python
-
-```

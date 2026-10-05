@@ -1,5 +1,0 @@
-# Roman to Integer
-
-```python
-
-```

@@ -1,5 +1,0 @@
-# Minimum Array End
-
-```python
-
-```

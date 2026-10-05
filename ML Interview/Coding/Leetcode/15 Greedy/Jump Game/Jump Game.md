@@ -1,5 +1,0 @@
-# Jump Game
-
-```python
-
-```

@@ -1,5 +1,0 @@
-# Plus One
-
-```python
-
-```

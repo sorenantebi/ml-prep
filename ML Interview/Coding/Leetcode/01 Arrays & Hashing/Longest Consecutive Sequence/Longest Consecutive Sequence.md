@@ -1,5 +1,0 @@
-# Longest Consecutive Sequence
-
-```python
-
-```

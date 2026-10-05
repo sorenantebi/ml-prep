@@ -1,5 +1,0 @@
-# Min Stack
-
-```python
-
-```

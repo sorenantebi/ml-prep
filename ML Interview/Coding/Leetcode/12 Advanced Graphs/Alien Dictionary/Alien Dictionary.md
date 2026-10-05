@@ -1,5 +1,0 @@
-# Alien Dictionary
-
-```python
-
-```

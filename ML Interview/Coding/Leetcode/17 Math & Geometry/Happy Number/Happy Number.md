@@ -1,5 +1,0 @@
-# Happy Number
-
-```python
-
-```

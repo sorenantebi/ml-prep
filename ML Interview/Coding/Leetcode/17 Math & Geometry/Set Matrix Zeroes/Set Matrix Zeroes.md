@@ -1,5 +1,0 @@
-# Set Matrix Zeroes
-
-```python
-
-```

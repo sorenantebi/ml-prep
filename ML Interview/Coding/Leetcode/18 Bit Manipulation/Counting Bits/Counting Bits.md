@@ -1,5 +1,0 @@
-# Counting Bits
-
-```python
-
-```

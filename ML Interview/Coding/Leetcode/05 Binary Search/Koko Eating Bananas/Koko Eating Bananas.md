@@ -1,5 +1,0 @@
-# Koko Eating Bananas
-
-```python
-
-```

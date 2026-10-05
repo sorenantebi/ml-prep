@@ -1,5 +1,0 @@
-# LFU Cache
-
-```python
-
-```

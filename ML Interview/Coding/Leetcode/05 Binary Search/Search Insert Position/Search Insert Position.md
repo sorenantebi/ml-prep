@@ -1,5 +1,0 @@
-# Search Insert Position
-
-```python
-
-```

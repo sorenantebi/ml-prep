@@ -1,5 +1,0 @@
-# Simplify Path
-
-```python
-
-```

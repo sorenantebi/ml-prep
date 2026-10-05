@@ -1,5 +1,0 @@
-# N Queens II
-
-```python
-
-```

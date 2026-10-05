@@ -1,5 +1,0 @@
-# Online Stock Span
-
-```python
-
-```

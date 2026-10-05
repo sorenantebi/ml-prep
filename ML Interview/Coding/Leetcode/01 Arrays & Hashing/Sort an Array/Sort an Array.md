@@ -1,5 +1,0 @@
-# Sort an Array
-
-```python
-
-```

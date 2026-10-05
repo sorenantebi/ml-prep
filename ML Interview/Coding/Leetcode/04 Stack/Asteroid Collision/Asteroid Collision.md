@@ -1,5 +1,0 @@
-# Asteroid Collision
-
-```python
-
-```

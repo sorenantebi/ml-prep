@@ -1,5 +1,0 @@
-# Maximum Frequency Stack
-
-```python
-
-```

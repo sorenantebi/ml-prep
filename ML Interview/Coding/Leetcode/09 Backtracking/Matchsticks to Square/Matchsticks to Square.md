@@ -1,5 +1,0 @@
-# Matchsticks to Square
-
-```python
-
-```

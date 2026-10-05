@@ -1,5 +1,0 @@
-# Hand of Straights
-
-```python
-
-```

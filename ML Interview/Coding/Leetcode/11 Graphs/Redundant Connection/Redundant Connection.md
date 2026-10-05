@@ -1,5 +1,0 @@
-# Redundant Connection
-
-```python
-
-```

@@ -1,5 +1,0 @@
-# Maximum Subarray
-
-```python
-
-```

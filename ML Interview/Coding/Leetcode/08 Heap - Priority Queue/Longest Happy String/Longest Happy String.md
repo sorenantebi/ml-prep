@@ -1,5 +1,0 @@
-# Longest Happy String
-
-```python
-
-```

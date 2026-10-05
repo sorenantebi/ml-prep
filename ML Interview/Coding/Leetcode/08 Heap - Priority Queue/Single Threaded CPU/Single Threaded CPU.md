@@ -1,5 +1,0 @@
-# Single Threaded CPU
-
-```python
-
-```

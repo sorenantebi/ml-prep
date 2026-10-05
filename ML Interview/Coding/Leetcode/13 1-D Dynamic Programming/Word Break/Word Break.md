@@ -1,5 +1,0 @@
-# Word Break
-
-```python
-
-```

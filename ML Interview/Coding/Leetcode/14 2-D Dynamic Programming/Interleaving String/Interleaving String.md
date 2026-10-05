@@ -1,5 +1,0 @@
-# Interleaving String
-
-```python
-
-```

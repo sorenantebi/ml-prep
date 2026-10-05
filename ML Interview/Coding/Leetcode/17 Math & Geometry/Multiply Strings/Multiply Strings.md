@@ -1,5 +1,0 @@
-# Multiply Strings
-
-```python
-
-```

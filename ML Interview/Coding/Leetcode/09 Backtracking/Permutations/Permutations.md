@@ -1,5 +1,0 @@
-# Permutations
-
-```python
-
-```

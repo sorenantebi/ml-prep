@@ -1,5 +1,0 @@
-# Insert Interval
-
-```python
-
-```

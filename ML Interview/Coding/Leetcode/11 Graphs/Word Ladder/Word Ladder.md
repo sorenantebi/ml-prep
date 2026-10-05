@@ -1,5 +1,0 @@
-# Word Ladder
-
-```python
-
-```

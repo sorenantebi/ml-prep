@@ -1,5 +1,0 @@
-# House Robber III
-
-```python
-
-```

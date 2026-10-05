@@ -1,5 +1,0 @@
-# Reverse String
-
-```python
-
-```

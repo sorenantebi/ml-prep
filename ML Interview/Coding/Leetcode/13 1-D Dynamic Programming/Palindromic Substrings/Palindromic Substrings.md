@@ -1,5 +1,0 @@
-# Palindromic Substrings
-
-```python
-
-```

@@ -1,5 +1,0 @@
-# Decode Ways
-
-```python
-
-```

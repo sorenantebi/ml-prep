@@ -1,5 +1,0 @@
-# Integer Break
-
-```python
-
-```

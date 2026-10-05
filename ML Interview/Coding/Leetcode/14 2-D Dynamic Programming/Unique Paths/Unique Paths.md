@@ -1,5 +1,0 @@
-# Unique Paths
-
-```python
-
-```

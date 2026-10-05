@@ -1,5 +1,0 @@
-# Course Schedule IV
-
-```python
-
-```

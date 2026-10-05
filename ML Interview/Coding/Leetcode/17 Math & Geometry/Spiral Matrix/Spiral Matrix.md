@@ -1,5 +1,0 @@
-# Spiral Matrix
-
-```python
-
-```

@@ -1,5 +1,0 @@
-# Design Circular Queue
-
-```python
-
-```

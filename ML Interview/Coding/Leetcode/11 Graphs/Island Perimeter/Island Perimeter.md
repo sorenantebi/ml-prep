@@ -1,5 +1,0 @@
-# Island Perimeter
-
-```python
-
-```

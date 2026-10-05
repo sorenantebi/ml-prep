@@ -1,5 +1,0 @@
-# Decode String
-
-```python
-
-```

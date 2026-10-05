@@ -1,5 +1,0 @@
-# Contains Duplicate
-
-```python
-
-```
