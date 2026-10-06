@@ -27,3 +27,5 @@ Each problem has three notes:
 16. [[16 Intervals|Intervals]] (7 problems)
 17. [[17 Math & Geometry|Math & Geometry]] (13 problems)
 18. [[18 Bit Manipulation|Bit Manipulation]] (10 problems)
+
+Skim all your solutions in one page: [[NeetCode Skim]]

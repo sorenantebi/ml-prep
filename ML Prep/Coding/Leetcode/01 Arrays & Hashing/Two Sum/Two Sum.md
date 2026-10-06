@@ -11,5 +11,13 @@ Explanation: nums[0] + nums[1] == 2 + 7 == 9
 ```
 
 ```python
+# you will definitely only have one solution where two indices add up to target
+# so what you can do is store the values of previous indices, and see if the target - current_value is in the hashmap
+
+hashmap = {}
+for i, num in enumerate(nums):
+	if target - num in hashmap:
+		return [hashmap[target - num], i]
+	hashmap[num] = i
 
 ```

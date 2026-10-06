@@ -45,7 +45,8 @@ Output: false
 ```python
 class Solution:
 	def isAnagram(self, s: str, t: str) -> bool:
-		pass  # your code here
+		from collections import Counter
+		return Counter(s) == Counter(t)
 
 
 if __name__ == "__main__":

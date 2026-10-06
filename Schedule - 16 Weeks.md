@@ -11,7 +11,7 @@ Part of [[STUDYPLAN]]. This is the slower, deeper plan: **system design, AI fund
 
 | Day | Time | Block |
 |---|---|---|
-| Mon–Thu | before 19:00 | Daytime LeetCode: 2 problems a day, listed under each date |
+| Mon–Thu | before 19:00 | Daytime LeetCode: 2 problems a day (all 35 🔴 Hard problems are spread across these), listed under each date |
 | Mon | 19:30–21:30 | Review: redo 4 coding problems cold, then a rotating review hour |
 | Tue | 19:30–21:30 | LeetCode |
 | Wed | 19:30–21:30 | AI fundamentals |
@@ -28,7 +28,7 @@ Part of [[STUDYPLAN]]. This is the slower, deeper plan: **system design, AI fund
 - **System design:** read only the Question note, design out loud on a blank Excalidraw board, then compare. Never read the Solution first. Concept sessions use [[System Design Concepts]].
 - **AI fundamentals:** answer out loud before opening the collapsed answers.
 - **ML coding:** write the code yourself in the [[Numpy]], [[Pandas]] and [[Pytorch]] notes (run it with the code block). Do not paste solutions. The agent project is specified in [[Build an Agent with the Claude SDK]].
-- **Daytime LeetCode:** the problems under each date's *Before 19:00* line are extras for free time before the evening, with the same slot lengths. Skip them on a heavy day rather than rushing.
+- **Daytime LeetCode:** the problems under each date's *Before 19:00* line are extras for free time before the evening, with the same slot lengths. All 35 🔴 Hard problems are here (45 min each, never more than two a day), always from a section you have already covered in the evening sessions. Skip them on a heavy day rather than rushing.
 - **Spaced review:** treat the review blocks as non-negotiable. If time is short, shorten new material, not review.
 - **If you miss a session:** do not cram it in. Shift the rest of the day to the next free block, and drop the lowest-priority item first.
 
@@ -42,7 +42,7 @@ Part of [[STUDYPLAN]]. This is the slower, deeper plan: **system design, AI fund
 | ML coding | Monday review hours re-implement earlier NumPy, Pandas and PyTorch code from memory, and the last Thursday has timed mocks |
 | Final weeks | Timed coding rounds, four unseen design mocks, a timed agent build, and the cheat sheet |
 
-- **Total:** 80 evening LeetCode problems (50 🟢 and 30 🟡, about 23 h) plus 128 (7 🟢, 121 🟡) daytime problems · 24 general design problems + 4 unseen mocks + 4 ML system design sessions + 16 concept sessions · all 12 AI fundamentals topics, 17 coding challenges and 5 AI case studies · 2 NumPy, 2 Pandas, 5 PyTorch, 6 agent-project sessions and a timed mock session.
+- **Total:** 80 evening LeetCode problems (50 🟢 and 30 🟡, about 23 h) plus 128 (93 🟡, 35 🔴) daytime problems · 24 general design problems + 4 unseen mocks + 4 ML system design sessions + 16 concept sessions · all 12 AI fundamentals topics, 17 coding challenges and 5 AI case studies · 2 NumPy, 2 Pandas, 5 PyTorch, 6 agent-project sessions and a timed mock session.
 
 
 ---
@@ -52,10 +52,10 @@ Part of [[STUDYPLAN]]. This is the slower, deeper plan: **system design, AI fund
 **Focus:** NumPy and ML foundations · LLM basics · Bitly, Rate Limiter · LeetCode: Arrays & Hashing
 
 ### Tue 6 Oct 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-06
+- [x] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-06 ✅ 2026-10-06
 	- 🟡 [[Sort an Array]] (Arrays & Hashing) (30 min)
 	- 🟡 [[Sort Colors]] (Arrays & Hashing) (30 min)
-- [ ] 19:30–21:30 · LeetCode: Arrays & Hashing (9 problems) 📅 2026-10-06
+- [x] 19:30–21:30 · LeetCode: Arrays & Hashing (9 problems) 📅 2026-10-06 ✅ 2026-10-06
 	- 19:30–19:40 🟢 [[Concatenation of Array]] (Arrays & Hashing) (10 min)
 	- 19:40–19:50 🟢 [[Contains Duplicate]] (Arrays & Hashing) (10 min)
 	- 19:50–20:00 🟢 [[Valid Anagram]] (Arrays & Hashing) (10 min)
@@ -66,19 +66,19 @@ Part of [[STUDYPLAN]]. This is the slower, deeper plan: **system design, AI fund
 	- 21:00–21:10 🟢 [[Majority Element]] (Arrays & Hashing) (10 min)
 	- 21:10–21:20 🟢 [[Design HashSet]] (Arrays & Hashing) (10 min)
 	- 21:20–21:30 Wrap-up and buffer: add anything you could not solve alone to the Fumbled list in [[STUDYPLAN]]; tick each problem in its section note
-
+REDO: [[Longest Common Prefix]], [[Majority Element]],  [[Design HashSet]] 
 ### Wed 7 Oct 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-07
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-10-07
 	- 🟡 [[Top K Frequent Elements]] (Arrays & Hashing) (30 min)
-	- 🟡 [[Encode and Decode Strings]] (Arrays & Hashing) (30 min)
+	- 🔴 [[First Missing Positive]] (Arrays & Hashing) (45 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-10-07
 	- 19:30–20:10 Read the [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/01-ml-and-dl-foundations/README|ML & DL foundations crash course]]
 	- 20:10–21:30 Answer out loud, before opening each answer: [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/01-ml-and-dl-foundations/questions|ML & DL foundations questions (Basic)]]
 
 ### Thu 8 Oct 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-08
+	- 🟡 [[Encode and Decode Strings]] (Arrays & Hashing) (30 min)
 	- 🟡 [[Range Sum Query 2D Immutable]] (Arrays & Hashing) (30 min)
-	- 🟡 [[Product of Array Except Self]] (Arrays & Hashing) (30 min)
 - [ ] 19:30–21:30 · ML coding: NumPy basics 📅 2026-10-08
 	- 19:30–20:00 [[Numpy]]: shapes, dtypes, reshape, transpose, boolean masks and fancy indexing. Write 8 small exercises of your own in the note
 	- 20:00–21:00 [[Numpy]]: broadcasting drills: normalise rows, pairwise Euclidean distance matrix with no loops, one-hot encoding with `np.eye`, moving average with `cumsum`
@@ -113,8 +113,8 @@ Rest day.
 
 ### Mon 12 Oct 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-12
+	- 🟡 [[Product of Array Except Self]] (Arrays & Hashing) (30 min)
 	- 🟡 [[Valid Sudoku]] (Arrays & Hashing) (30 min)
-	- 🟡 [[Longest Consecutive Sequence]] (Arrays & Hashing) (30 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-10-12
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Group Anagrams]] (this week); [[Design HashSet]] (this week); [[Majority Element]] (this week); [[Remove Element]] (this week)
 	- 20:30–21:30 AI-75 quiz: ML & DL Foundations, then re-implement 3 NumPy functions from week 1 from memory (softmax, pairwise distances, one-hot)
@@ -127,9 +127,9 @@ Rest day.
 **Focus:** NumPy from scratch, LLM internals · Distributed Cache, News Feed · LeetCode: Arrays & Hashing, Two Pointers, Sliding Window
 
 ### Tue 13 Oct 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-13
-	- 🟡 [[Best Time to Buy And Sell Stock II]] (Arrays & Hashing) (30 min)
-	- 🟡 [[Majority Element II]] (Arrays & Hashing) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-10-13
+	- 🟡 [[Longest Consecutive Sequence]] (Arrays & Hashing) (30 min)
+	- 🔴 [[Minimum Window Substring]] (Sliding Window) (45 min)
 - [ ] 19:30–21:30 · LeetCode: Arrays & Hashing, Two Pointers, Sliding Window (9 problems) 📅 2026-10-13
 	- 19:30–19:40 🟢 [[Design HashMap]] (Arrays & Hashing) (10 min)
 	- 19:40–19:50 🟢 [[Reverse String]] (Two Pointers) (10 min)
@@ -143,9 +143,9 @@ Rest day.
 	- 21:00–21:30 Wrap-up and buffer: add anything you could not solve alone to the Fumbled list in [[STUDYPLAN]]; tick each problem in its section note
 
 ### Wed 14 Oct 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-14
-	- 🟡 [[Subarray Sum Equals K]] (Arrays & Hashing) (30 min)
-	- 🟡 [[Two Sum II Input Array Is Sorted]] (Two Pointers) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-10-14
+	- 🟡 [[Best Time to Buy And Sell Stock II]] (Arrays & Hashing) (30 min)
+	- 🔴 [[Sliding Window Maximum]] (Sliding Window) (45 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-10-14
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (ML & DL intermediate and LLM intro), then check them against the answers
 	- 19:45–20:50 Answer out loud, before opening each answer: [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/02-llm-fundamentals/questions|LLM fundamentals questions (Basic)]]
@@ -153,8 +153,8 @@ Rest day.
 
 ### Thu 15 Oct 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-15
-	- 🟡 [[3Sum]] (Two Pointers) (30 min)
-	- 🟡 [[4Sum]] (Two Pointers) (30 min)
+	- 🟡 [[Majority Element II]] (Arrays & Hashing) (30 min)
+	- 🟡 [[Subarray Sum Equals K]] (Arrays & Hashing) (30 min)
 - [ ] 19:30–21:30 · ML coding: NumPy from scratch 📅 2026-10-15
 	- 19:30–20:00 [[Numpy]]: linear regression with the normal equation and with gradient descent, using only NumPy
 	- 20:00–20:30 [[Numpy]]: logistic regression with gradient descent and a cross-entropy loss
@@ -190,9 +190,9 @@ Rest day.
 	- 15:35–16:00 Redraw the high-level design from memory and write 3 takeaways in the Fumbled list
 
 ### Mon 19 Oct 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-19
-	- 🟡 [[Rotate Array]] (Two Pointers) (30 min)
-	- 🟡 [[Container With Most Water]] (Two Pointers) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-10-19
+	- 🟡 [[Two Sum II Input Array Is Sorted]] (Two Pointers) (30 min)
+	- 🔴 [[Trapping Rain Water]] (Two Pointers) (45 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-10-19
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Best Time to Buy And Sell Stock]] (this week); [[Group Anagrams]] (last week); [[Merge Strings Alternately]] (this week); [[Contains Duplicate II]] (this week)
 	- 20:30–21:30 AI-75 quiz: LLM & Transformer Fundamentals, then 15 min of tokenization and attention questions out loud
@@ -206,8 +206,8 @@ Rest day.
 
 ### Tue 20 Oct 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-20
-	- 🟡 [[Boats to Save People]] (Two Pointers) (30 min)
-	- 🟡 [[Longest Repeating Character Replacement]] (Sliding Window) (30 min)
+	- 🟡 [[3Sum]] (Two Pointers) (30 min)
+	- 🟡 [[4Sum]] (Two Pointers) (30 min)
 - [ ] 19:30–21:30 · LeetCode: Sliding Window, Stack, Binary Search (7 problems) 📅 2026-10-20
 	- 19:30–20:00 🟡 [[Longest Substring Without Repeating Characters]] (Sliding Window) (30 min)
 	- 20:00–20:10 🟢 [[Baseball Game]] (Stack) (10 min)
@@ -219,9 +219,9 @@ Rest day.
 	- 21:20–21:30 Wrap-up and buffer: add anything you could not solve alone to the Fumbled list in [[STUDYPLAN]]; tick each problem in its section note
 
 ### Wed 21 Oct 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-21
-	- 🟡 [[Permutation In String]] (Sliding Window) (30 min)
-	- 🟡 [[Minimum Size Subarray Sum]] (Sliding Window) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-10-21
+	- 🟡 [[Rotate Array]] (Two Pointers) (30 min)
+	- 🔴 [[Split Array Largest Sum]] (Binary Search) (45 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-10-21
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (LLM intermediate and positional encodings), then check them against the answers
 	- 19:45–20:30 Answer out loud, before opening each answer: [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/02-llm-fundamentals/questions|LLM fundamentals questions (Advanced)]]
@@ -229,9 +229,9 @@ Rest day.
 	- 21:00–21:30 Tick the LLM & Transformer Fundamentals section(s) of [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/AI-ENGINEER-75|AI Engineer 75]] (answer cold; re-read what you miss)
 
 ### Thu 22 Oct 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-22
-	- 🟡 [[Find K Closest Elements]] (Sliding Window) (30 min)
-	- 🟡 [[Evaluate Reverse Polish Notation]] (Stack) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-10-22
+	- 🟡 [[Container With Most Water]] (Two Pointers) (30 min)
+	- 🔴 [[Median of Two Sorted Arrays]] (Binary Search) (45 min)
 - [ ] 19:30–21:30 · ML coding: Pandas basics 📅 2026-10-22
 	- 19:30–19:55 [[Pandas]]: load, inspect and clean a small synthetic CSV (dtypes, missing values, duplicates)
 	- 19:55–20:30 [[Pandas]]: `groupby` with `agg` and `transform`, and `merge` with every join type
@@ -268,8 +268,8 @@ Rest day.
 
 ### Mon 26 Oct 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-26
-	- 🟡 [[Asteroid Collision]] (Stack) (30 min)
-	- 🟡 [[Daily Temperatures]] (Stack) (30 min)
+	- 🟡 [[Boats to Save People]] (Two Pointers) (30 min)
+	- 🟡 [[Longest Repeating Character Replacement]] (Sliding Window) (30 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-10-26
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Min Stack]] (this week); [[Merge Strings Alternately]] (last week); [[Group Anagrams]] (2 weeks ago); [[Best Time to Buy And Sell Stock]] (last week)
 	- 20:30–21:30 Pandas: redo 3 problems from the last Pandas session from memory, 15 min each, then the AI-75 Prompt section quiz
@@ -282,9 +282,9 @@ Rest day.
 **Focus:** Pandas interview problems, prompting and RAG · Online Auction, WhatsApp · LeetCode: Binary Search, Linked List
 
 ### Tue 27 Oct 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-27
-	- 🟡 [[Online Stock Span]] (Stack) (30 min)
-	- 🟡 [[Car Fleet]] (Stack) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-10-27
+	- 🟡 [[Permutation In String]] (Sliding Window) (30 min)
+	- 🔴 [[LFU Cache]] (Linked List) (45 min)
 - [ ] 19:30–21:30 · LeetCode: Binary Search, Linked List (7 problems) 📅 2026-10-27
 	- 19:30–19:40 🟢 [[Search Insert Position]] (Binary Search) (10 min)
 	- 19:40–19:50 🟢 [[Guess Number Higher Or Lower]] (Binary Search) (10 min)
@@ -297,8 +297,8 @@ Rest day.
 
 ### Wed 28 Oct 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-28
-	- 🟡 [[Simplify Path]] (Stack) (30 min)
-	- 🟡 [[Decode String]] (Stack) (30 min)
+	- 🟡 [[Minimum Size Subarray Sum]] (Sliding Window) (30 min)
+	- 🟡 [[Find K Closest Elements]] (Sliding Window) (30 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-10-28
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (Prompt & context engineering), then check them against the answers
 	- 19:45–20:05 Tick the Prompt & Context Engineering section(s) of [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/AI-ENGINEER-75|AI Engineer 75]] (answer cold; re-read what you miss)
@@ -306,9 +306,9 @@ Rest day.
 	- 20:50–21:30 Answer out loud, before opening each answer: [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/04-rag-and-retrieval/questions|RAG & retrieval questions (Basic)]]
 
 ### Thu 29 Oct 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-10-29
-	- 🟡 [[Koko Eating Bananas]] (Binary Search) (30 min)
-	- 🟡 [[Capacity to Ship Packages Within D Days]] (Binary Search) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-10-29
+	- 🟡 [[Evaluate Reverse Polish Notation]] (Stack) (30 min)
+	- 🔴 [[Merge K Sorted Lists]] (Linked List) (45 min)
 - [ ] 19:30–21:30 · ML coding: Pandas interview problems 📅 2026-10-29
 	- 19:30–20:10 [[Pandas]] interview problems (synthetic data, 20 min each): top-N rows per group; running total and 7-day rolling average
 	- 20:10–20:50 [[Pandas]]: keep the latest row per user (dedupe); find users with 3 consecutive active days
@@ -344,8 +344,8 @@ Rest day.
 
 ### Mon 2 Nov 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-02
-	- 🟡 [[Find Minimum In Rotated Sorted Array]] (Binary Search) (30 min)
-	- 🟡 [[Search In Rotated Sorted Array]] (Binary Search) (30 min)
+	- 🟡 [[Asteroid Collision]] (Stack) (30 min)
+	- 🟡 [[Daily Temperatures]] (Stack) (30 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-11-02
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Search a 2D Matrix]] (this week); [[Min Stack]] (last week); [[Best Time to Buy And Sell Stock]] (2 weeks ago); [[Group Anagrams]] (3 weeks ago)
 	- 20:30–21:30 AI-75 quiz: Prompt & Context Engineering, then the RAG pipeline diagram from memory
@@ -358,9 +358,9 @@ Rest day.
 **Focus:** PyTorch basics, RAG · Notification System, Dropbox · LeetCode: Linked List, Trees
 
 ### Tue 3 Nov 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-03
-	- 🟡 [[Search In Rotated Sorted Array II]] (Binary Search) (30 min)
-	- 🟡 [[Time Based Key Value Store]] (Binary Search) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-11-03
+	- 🟡 [[Online Stock Span]] (Stack) (30 min)
+	- 🔴 [[Binary Tree Maximum Path Sum]] (Trees) (45 min)
 - [ ] 19:30–21:30 · LeetCode: Linked List, Trees (7 problems) 📅 2026-11-03
 	- 19:30–20:00 🟡 [[Reorder List]] (Linked List) (30 min)
 	- 20:00–20:30 🟡 [[Remove Nth Node From End of List]] (Linked List) (30 min)
@@ -373,17 +373,17 @@ Rest day.
 
 ### Wed 4 Nov 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-04
-	- 🟡 [[Copy List With Random Pointer]] (Linked List) (30 min)
-	- 🟡 [[Add Two Numbers]] (Linked List) (30 min)
+	- 🟡 [[Car Fleet]] (Stack) (30 min)
+	- 🟡 [[Simplify Path]] (Stack) (30 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-11-04
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (RAG intermediate and chunking), then check them against the answers
 	- 19:45–20:35 Answer out loud, before opening each answer: [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/04-rag-and-retrieval/questions|RAG & retrieval questions (Advanced)]]
 	- 20:35–21:30 Implement from scratch, no peeking: `08_semantic_search_rag.py` (see [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/12-coding-challenges/README|coding challenges]])
 
 ### Thu 5 Nov 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-05
-	- 🟡 [[Find The Duplicate Number]] (Linked List) (30 min)
-	- 🟡 [[Reverse Linked List II]] (Linked List) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-11-05
+	- 🟡 [[Decode String]] (Stack) (30 min)
+	- 🔴 [[Serialize And Deserialize Binary Tree]] (Trees) (45 min)
 - [ ] 19:30–21:30 · ML coding: PyTorch basics 📅 2026-11-05
 	- 19:30–20:10 [[Pytorch]]: tensors, shapes, devices, broadcasting and autograd (compute a gradient by hand and check it with `.backward()`)
 	- 20:10–20:50 [[Pytorch]]: write an `nn.Module` MLP and train it on a synthetic classification set
@@ -420,8 +420,8 @@ Rest day.
 
 ### Mon 9 Nov 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-09
-	- 🟡 [[Design Circular Queue]] (Linked List) (30 min)
-	- 🟡 [[LRU Cache]] (Linked List) (30 min)
+	- 🟡 [[Koko Eating Bananas]] (Binary Search) (30 min)
+	- 🟡 [[Capacity to Ship Packages Within D Days]] (Binary Search) (30 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-11-09
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Remove Nth Node From End of List]] (this week); [[Search a 2D Matrix]] (last week); [[Min Stack]] (2 weeks ago); [[Group Anagrams]] (4 weeks ago)
 	- 20:30–21:30 AI-75 quiz: RAG, then 30 min redoing a NumPy/Pandas problem you flagged
@@ -434,9 +434,9 @@ Rest day.
 **Focus:** PyTorch training, RAG advanced and fine-tuning · YouTube, Uber · LeetCode: Trees, Heap - Priority Queue
 
 ### Tue 10 Nov 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-10
-	- 🟡 [[Delete Node in a BST]] (Trees) (30 min)
-	- 🟡 [[Binary Tree Level Order Traversal]] (Trees) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-11-10
+	- 🟡 [[Find Minimum In Rotated Sorted Array]] (Binary Search) (30 min)
+	- 🔴 [[Find Median From Data Stream]] (Heap - Priority Queue) (45 min)
 - [ ] 19:30–21:30 · LeetCode: Trees, Heap - Priority Queue (7 problems) 📅 2026-11-10
 	- 19:30–19:40 🟢 [[Diameter of Binary Tree]] (Trees) (10 min)
 	- 19:40–19:50 🟢 [[Balanced Binary Tree]] (Trees) (10 min)
@@ -448,9 +448,9 @@ Rest day.
 	- 21:20–21:30 Wrap-up and buffer: add anything you could not solve alone to the Fumbled list in [[STUDYPLAN]]; tick each problem in its section note
 
 ### Wed 11 Nov 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-11
-	- 🟡 [[Binary Tree Right Side View]] (Trees) (30 min)
-	- 🟡 [[Construct Quad Tree]] (Trees) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-11-11
+	- 🟡 [[Search In Rotated Sorted Array]] (Binary Search) (30 min)
+	- 🔴 [[IPO]] (Heap - Priority Queue) (45 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-11-11
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (hybrid search and RAG review), then check them against the answers
 	- 19:45–20:25 Read the [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/05-fine-tuning-and-alignment/README|Fine-tuning & alignment crash course]]
@@ -458,8 +458,8 @@ Rest day.
 
 ### Thu 12 Nov 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-12
-	- 🟡 [[Count Good Nodes In Binary Tree]] (Trees) (30 min)
-	- 🟡 [[Validate Binary Search Tree]] (Trees) (30 min)
+	- 🟡 [[Search In Rotated Sorted Array II]] (Binary Search) (30 min)
+	- 🟡 [[Time Based Key Value Store]] (Binary Search) (30 min)
 - [ ] 19:30–21:30 · ML coding: PyTorch training 📅 2026-11-12
 	- 19:30–20:00 [[Pytorch]]: custom `Dataset` and `DataLoader`, a train/validation split and accuracy and loss tracking
 	- 20:00–20:30 [[Pytorch]]: learning-rate scheduler, gradient clipping, checkpoint save and load
@@ -496,9 +496,9 @@ Rest day.
 	- 15:35–16:00 Redraw the high-level design from memory and write 3 takeaways in the Fumbled list
 
 ### Mon 16 Nov 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-16
-	- 🟡 [[Kth Smallest Element In a Bst]] (Trees) (30 min)
-	- 🟡 [[Construct Binary Tree From Preorder And Inorder Traversal]] (Trees) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-11-16
+	- 🟡 [[Copy List With Random Pointer]] (Linked List) (30 min)
+	- 🔴 [[Reverse Nodes In K Group]] (Linked List) (45 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-11-16
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Insert into a Binary Search Tree]] (this week); [[Remove Nth Node From End of List]] (last week); [[Search a 2D Matrix]] (2 weeks ago); [[Merge Strings Alternately]] (4 weeks ago)
 	- 20:30–21:30 PyTorch: type the training loop and scaled dot-product attention from memory, timed (30 min each)
@@ -512,8 +512,8 @@ Rest day.
 
 ### Tue 17 Nov 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-17
-	- 🟡 [[House Robber III]] (Trees) (30 min)
-	- 🟡 [[Delete Leaves With a Given Value]] (Trees) (30 min)
+	- 🟡 [[Add Two Numbers]] (Linked List) (30 min)
+	- 🟡 [[Find The Duplicate Number]] (Linked List) (30 min)
 - [ ] 19:30–21:30 · LeetCode: Heap - Priority Queue, Tries, Graphs (5 problems) 📅 2026-11-17
 	- 19:30–19:40 🟢 [[Last Stone Weight]] (Heap - Priority Queue) (10 min)
 	- 19:40–20:10 🟡 [[K Closest Points to Origin]] (Heap - Priority Queue) (30 min)
@@ -523,9 +523,9 @@ Rest day.
 	- 21:20–21:30 Wrap-up and buffer: add anything you could not solve alone to the Fumbled list in [[STUDYPLAN]]; tick each problem in its section note
 
 ### Wed 18 Nov 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-18
-	- 🟡 [[Task Scheduler]] (Heap - Priority Queue) (30 min)
-	- 🟡 [[Design Twitter]] (Heap - Priority Queue) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-11-18
+	- 🟡 [[Reverse Linked List II]] (Linked List) (30 min)
+	- 🔴 [[Word Ladder]] (Graphs) (45 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-11-18
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (Fine-tuning advanced), then check them against the answers
 	- 19:45–20:30 Read the [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/06-agents-and-tool-use/README|Agents & tool use crash course]]
@@ -533,8 +533,8 @@ Rest day.
 
 ### Thu 19 Nov 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-19
-	- 🟡 [[Single Threaded CPU]] (Heap - Priority Queue) (30 min)
-	- 🟡 [[Reorganize String]] (Heap - Priority Queue) (30 min)
+	- 🟡 [[Design Circular Queue]] (Linked List) (30 min)
+	- 🟡 [[LRU Cache]] (Linked List) (30 min)
 - [ ] 19:30–21:30 · ML coding: PyTorch attention 📅 2026-11-19
 	- 19:30–20:00 [[Pytorch]]: scaled dot-product attention from scratch (then compare with `ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/12-coding-challenges/01_attention.py` in the AI repo)
 	- 20:00–20:40 [[Pytorch]]: multi-head attention with a reshape and a final projection
@@ -569,9 +569,9 @@ Rest day.
 	- 15:35–16:00 Redraw the high-level design from memory and write 3 takeaways in the Fumbled list
 
 ### Mon 23 Nov 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-23
-	- 🟡 [[Longest Happy String]] (Heap - Priority Queue) (30 min)
-	- 🟡 [[Car Pooling]] (Heap - Priority Queue) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-11-23
+	- 🟡 [[Delete Node in a BST]] (Trees) (30 min)
+	- 🔴 [[Word Search II]] (Tries) (45 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-11-23
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Implement Trie Prefix Tree]] (this week); [[Insert into a Binary Search Tree]] (last week); [[Remove Nth Node From End of List]] (2 weeks ago); [[Min Stack]] (4 weeks ago)
 	- 20:30–21:30 AI-75 quiz: Fine-tuning & Alignment, then list the LoRA maths from memory
@@ -585,8 +585,8 @@ Rest day.
 
 ### Tue 24 Nov 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-24
-	- 🟡 [[Design Add And Search Words Data Structure]] (Tries) (30 min)
-	- 🟡 [[Extra Characters in a String]] (Tries) (30 min)
+	- 🟡 [[Binary Tree Level Order Traversal]] (Trees) (30 min)
+	- 🟡 [[Binary Tree Right Side View]] (Trees) (30 min)
 - [ ] 19:30–21:30 · LeetCode: Graphs (5 problems) 📅 2026-11-24
 	- 19:30–19:40 🟢 [[Verifying An Alien Dictionary]] (Graphs) (10 min)
 	- 19:40–19:50 🟢 [[Find the Town Judge]] (Graphs) (10 min)
@@ -596,9 +596,9 @@ Rest day.
 	- 21:20–21:30 Wrap-up and buffer: add anything you could not solve alone to the Fumbled list in [[STUDYPLAN]]; tick each problem in its section note
 
 ### Wed 25 Nov 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-25
-	- 🟡 [[Pacific Atlantic Water Flow]] (Graphs) (30 min)
-	- 🟡 [[Surrounded Regions]] (Graphs) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-11-25
+	- 🟡 [[Construct Quad Tree]] (Trees) (30 min)
+	- 🔴 [[Find in Mountain Array]] (Binary Search) (45 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-11-25
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (Agents intermediate and tool design), then check them against the answers
 	- 19:45–20:30 Answer out loud, before opening each answer: [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/06-agents-and-tool-use/questions|Agents & tool use questions (Advanced)]]
@@ -607,8 +607,8 @@ Rest day.
 
 ### Thu 26 Nov 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-26
-	- 🟡 [[Open The Lock]] (Graphs) (30 min)
-	- 🟡 [[Course Schedule]] (Graphs) (30 min)
+	- 🟡 [[Count Good Nodes In Binary Tree]] (Trees) (30 min)
+	- 🟡 [[Validate Binary Search Tree]] (Trees) (30 min)
 - [ ] 19:30–21:30 · ML coding: mini GPT 📅 2026-11-26
 	- 19:30–20:20 [[Pytorch]]: mini GPT: token and position embeddings, a stack of blocks, and the LM head (see `07_mini_gpt_forward.py` in the AI repo)
 	- 20:20–21:00 [[Pytorch]]: train it on a tiny text for a few hundred steps and watch the loss
@@ -643,9 +643,9 @@ Rest day.
 	- 15:35–16:00 Redraw the high-level design from memory and write 3 takeaways in the Fumbled list
 
 ### Mon 30 Nov 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-11-30
-	- 🟡 [[Course Schedule II]] (Graphs) (30 min)
-	- 🟡 [[Graph Valid Tree]] (Graphs) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-11-30
+	- 🟡 [[Kth Smallest Element In a Bst]] (Trees) (30 min)
+	- 🔴 [[Maximum Frequency Stack]] (Stack) (45 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-11-30
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Clone Graph]] (this week); [[Kth Largest Element In An Array]] (last week); [[Insert into a Binary Search Tree]] (2 weeks ago); [[Search a 2D Matrix]] (4 weeks ago)
 	- 20:30–21:30 AI-75 quiz: Agents, then re-read your tool descriptions and system prompt
@@ -658,9 +658,9 @@ Rest day.
 **Focus:** Agent project starts, evals · YouTube Top K, Payment System · LeetCode: Graphs, Backtracking
 
 ### Tue 1 Dec 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-01
-	- 🟡 [[Course Schedule IV]] (Graphs) (30 min)
-	- 🟡 [[Number of Connected Components In An Undirected Graph]] (Graphs) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-12-01
+	- 🟡 [[Construct Binary Tree From Preorder And Inorder Traversal]] (Trees) (30 min)
+	- 🔴 [[N Queens]] (Backtracking) (45 min)
 - [ ] 19:30–21:30 · LeetCode: Graphs, Backtracking (4 problems) 📅 2026-12-01
 	- 19:30–20:00 🟡 [[Walls And Gates]] (Graphs) (30 min)
 	- 20:00–20:30 🟡 [[Rotting Oranges]] (Graphs) (30 min)
@@ -670,17 +670,17 @@ Rest day.
 
 ### Wed 2 Dec 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-02
-	- 🟡 [[Redundant Connection]] (Graphs) (30 min)
-	- 🟡 [[Accounts Merge]] (Graphs) (30 min)
+	- 🟡 [[House Robber III]] (Trees) (30 min)
+	- 🟡 [[Delete Leaves With a Given Value]] (Trees) (30 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-12-02
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (Evaluation basics), then check them against the answers
 	- 19:45–20:30 Answer out loud, before opening each answer: [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/07-evaluation-and-observability/questions|Evaluation & observability questions (Intermediate + Advanced)]]
 	- 20:30–21:30 Implement from scratch, no peeking: `12_eval_metrics.py` (see [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/12-coding-challenges/README|coding challenges]])
 
 ### Thu 3 Dec 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-03
-	- 🟡 [[Evaluate Division]] (Graphs) (30 min)
-	- 🟡 [[Minimum Height Trees]] (Graphs) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-12-03
+	- 🟡 [[Task Scheduler]] (Heap - Priority Queue) (30 min)
+	- 🔴 [[N Queens II]] (Backtracking) (45 min)
 - [ ] 19:30–21:30 · ML coding: agent project (design) 📅 2026-12-03
 	- 19:30–21:30 Project: [[Build an Agent with the Claude SDK|Claude agent project]], milestone 1 (design and prompt, 45 min) and the start of milestone 2 (agent loop and tools). Tick the milestone boxes in the project note
 
@@ -715,8 +715,8 @@ Rest day.
 
 ### Mon 7 Dec 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-07
-	- 🟡 [[Permutations]] (Backtracking) (30 min)
-	- 🟡 [[Subsets II]] (Backtracking) (30 min)
+	- 🟡 [[Design Twitter]] (Heap - Priority Queue) (30 min)
+	- 🟡 [[Single Threaded CPU]] (Heap - Priority Queue) (30 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-12-07
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Subsets]] (this week); [[Max Area of Island]] (last week); [[Implement Trie Prefix Tree]] (2 weeks ago); [[Remove Nth Node From End of List]] (4 weeks ago)
 	- 20:30–21:30 AI-75 quiz: Evaluation & Observability, then review your eval cases
@@ -729,9 +729,9 @@ Rest day.
 **Focus:** Agent loop and guardrails, inference · Metrics Monitoring, Google Docs · LeetCode: Backtracking
 
 ### Tue 8 Dec 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-08
-	- 🟡 [[Permutations II]] (Backtracking) (30 min)
-	- 🟡 [[Generate Parentheses]] (Backtracking) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-12-08
+	- 🟡 [[Reorganize String]] (Heap - Priority Queue) (30 min)
+	- 🔴 [[Word Break II]] (Backtracking) (45 min)
 - [ ] 19:30–21:30 · LeetCode: Backtracking (3 problems) 📅 2026-12-08
 	- 19:30–20:00 🟡 [[Combination Sum]] (Backtracking) (30 min)
 	- 20:00–20:30 🟡 [[Combination Sum II]] (Backtracking) (30 min)
@@ -740,17 +740,17 @@ Rest day.
 
 ### Wed 9 Dec 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-09
-	- 🟡 [[Word Search]] (Backtracking) (30 min)
-	- 🟡 [[Palindrome Partitioning]] (Backtracking) (30 min)
+	- 🟡 [[Longest Happy String]] (Heap - Priority Queue) (30 min)
+	- 🟡 [[Car Pooling]] (Heap - Priority Queue) (30 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-12-09
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (Evaluation design for your agent), then check them against the answers
 	- 19:45–20:30 Read the [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/08-inference-and-production/README|Inference & production crash course]]
 	- 20:30–21:30 Answer out loud, before opening each answer: [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/08-inference-and-production/questions|Inference & production questions (Basic)]]
 
 ### Thu 10 Dec 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-10
-	- 🟡 [[Letter Combinations of a Phone Number]] (Backtracking) (30 min)
-	- 🟡 [[Matchsticks to Square]] (Backtracking) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-12-10
+	- 🟡 [[Design Add And Search Words Data Structure]] (Tries) (30 min)
+	- 🔴 [[Largest Rectangle In Histogram]] (Stack) (45 min)
 - [ ] 19:30–21:30 · ML coding: agent project (loop and guardrails) 📅 2026-12-10
 	- 19:30–21:30 Project: [[Build an Agent with the Claude SDK|Claude agent project]], finish milestone 2 (manual loop, then the tool runner version) and milestone 3 (guardrails and safety). Tick the milestone boxes in the project note
 
@@ -784,8 +784,8 @@ Rest day.
 
 ### Mon 14 Dec 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-14
-	- 🟡 [[Partition to K Equal Sum Subsets]] (Backtracking) (30 min)
-	- 🟡 [[Network Delay Time]] (Advanced Graphs) (30 min)
+	- 🟡 [[Extra Characters in a String]] (Tries) (30 min)
+	- 🟡 [[Pacific Atlantic Water Flow]] (Graphs) (30 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-12-14
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Combinations]] (this week); [[Rotting Oranges]] (last week); [[Clone Graph]] (2 weeks ago); [[Insert into a Binary Search Tree]] (4 weeks ago)
 	- 20:30–21:30 AI-75 quiz: Inference & Production, then write the KV cache size formula and a worked example
@@ -798,9 +798,9 @@ Rest day.
 **Focus:** Agent evals, inference and safety · FB Live Comments, ChatGPT · LeetCode: Advanced Graphs, 1-D Dynamic Programming
 
 ### Tue 15 Dec 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-15
-	- 🟡 [[Min Cost to Connect All Points]] (Advanced Graphs) (30 min)
-	- 🟡 [[Cheapest Flights Within K Stops]] (Advanced Graphs) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-12-15
+	- 🟡 [[Surrounded Regions]] (Graphs) (30 min)
+	- 🔴 [[Stone Game III]] (1-D Dynamic Programming) (45 min)
 - [ ] 19:30–21:30 · LeetCode: Advanced Graphs, 1-D Dynamic Programming (5 problems) 📅 2026-12-15
 	- 19:30–20:00 🟡 [[Path with Minimum Effort]] (Advanced Graphs) (30 min)
 	- 20:00–20:10 🟢 [[Climbing Stairs]] (1-D Dynamic Programming) (10 min)
@@ -811,8 +811,8 @@ Rest day.
 
 ### Wed 16 Dec 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-16
-	- 🟡 [[Palindromic Substrings]] (1-D Dynamic Programming) (30 min)
-	- 🟡 [[Decode Ways]] (1-D Dynamic Programming) (30 min)
+	- 🟡 [[Open The Lock]] (Graphs) (30 min)
+	- 🟡 [[Course Schedule]] (Graphs) (30 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-12-16
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (Inference advanced and KV cache), then check them against the answers
 	- 19:45–20:10 Implement from scratch, no peeking: `16_semantic_cache.py` (see [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/12-coding-challenges/README|coding challenges]])
@@ -820,9 +820,9 @@ Rest day.
 	- 20:50–21:30 Tick the Inference & Production section(s) of [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/AI-ENGINEER-75|AI Engineer 75]] (answer cold; re-read what you miss)
 
 ### Thu 17 Dec 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-17
-	- 🟡 [[Coin Change]] (1-D Dynamic Programming) (30 min)
-	- 🟡 [[Maximum Product Subarray]] (1-D Dynamic Programming) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-12-17
+	- 🟡 [[Course Schedule II]] (Graphs) (30 min)
+	- 🔴 [[Reconstruct Itinerary]] (Advanced Graphs) (45 min)
 - [ ] 19:30–21:30 · ML coding: agent project (evals) 📅 2026-12-17
 	- 19:30–21:30 Project: [[Build an Agent with the Claude SDK|Claude agent project]], milestone 4: the 20-case eval harness, baseline score, and one prompt change measured against it. Tick the milestone boxes in the project note
 
@@ -855,9 +855,9 @@ Rest day.
 	- 15:35–16:00 Redraw the high-level design from memory and write 3 takeaways in the Fumbled list
 
 ### Mon 21 Dec 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-21
-	- 🟡 [[Word Break]] (1-D Dynamic Programming) (30 min)
-	- 🟡 [[Longest Increasing Subsequence]] (1-D Dynamic Programming) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-12-21
+	- 🟡 [[Graph Valid Tree]] (Graphs) (30 min)
+	- 🔴 [[Swim In Rising Water]] (Advanced Graphs) (45 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-12-21
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[House Robber]] (this week); [[Combination Sum II]] (last week); [[Subsets]] (2 weeks ago); [[Kth Largest Element In An Array]] (4 weeks ago)
 	- 20:30–21:30 AI-75 quiz: Safety & Security, then re-read your threat model
@@ -871,8 +871,8 @@ Rest day.
 
 ### Tue 22 Dec 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-22
-	- 🟡 [[Partition Equal Subset Sum]] (1-D Dynamic Programming) (30 min)
-	- 🟡 [[Combination Sum IV]] (1-D Dynamic Programming) (30 min)
+	- 🟡 [[Course Schedule IV]] (Graphs) (30 min)
+	- 🟡 [[Number of Connected Components In An Undirected Graph]] (Graphs) (30 min)
 - [ ] 19:30–21:30 · LeetCode: 1-D Dynamic Programming, 2-D Dynamic Programming (3 problems) 📅 2026-12-22
 	- 19:30–20:00 🟡 [[House Robber II]] (1-D Dynamic Programming) (30 min)
 	- 20:00–20:30 🟡 [[Longest Palindromic Substring]] (1-D Dynamic Programming) (30 min)
@@ -880,9 +880,9 @@ Rest day.
 	- 21:00–21:30 Wrap-up and buffer: add anything you could not solve alone to the Fumbled list in [[STUDYPLAN]]; tick each problem in its section note
 
 ### Wed 23 Dec 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-23
-	- 🟡 [[Perfect Squares]] (1-D Dynamic Programming) (30 min)
-	- 🟡 [[Integer Break]] (1-D Dynamic Programming) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-12-23
+	- 🟡 [[Redundant Connection]] (Graphs) (30 min)
+	- 🔴 [[Longest Increasing Path In a Matrix]] (2-D Dynamic Programming) (45 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-12-23
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (Safety), then check them against the answers
 	- 19:45–20:15 Tick the Safety & Security section(s) of [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/AI-ENGINEER-75|AI Engineer 75]] (answer cold; re-read what you miss)
@@ -891,8 +891,8 @@ Rest day.
 
 ### Thu 24 Dec 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-24
-	- 🟡 [[Longest Common Subsequence]] (2-D Dynamic Programming) (30 min)
-	- 🟡 [[Last Stone Weight II]] (2-D Dynamic Programming) (30 min)
+	- 🟡 [[Accounts Merge]] (Graphs) (30 min)
+	- 🟡 [[Evaluate Division]] (Graphs) (30 min)
 - [ ] 19:30–21:30 · ML coding: agent project (polish and streaming) 📅 2026-12-24
 	- 19:30–20:15 Project: [[Build an Agent with the Claude SDK|Claude agent project]], milestone 5 (README, architecture diagram, design decisions, 3-minute walk-through). Tick the milestone boxes in the project note
 	- 20:15–21:30 Stretch goal: stream the response and show tool calls live; add conversation memory and one multi-turn eval case
@@ -927,9 +927,9 @@ Rest day.
 	- 15:35–16:00 Redraw the high-level design from memory and write 3 takeaways in the Fumbled list
 
 ### Mon 28 Dec 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-28
-	- 🟡 [[Best Time to Buy And Sell Stock With Cooldown]] (2-D Dynamic Programming) (30 min)
-	- 🟡 [[Coin Change II]] (2-D Dynamic Programming) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-12-28
+	- 🟡 [[Minimum Height Trees]] (Graphs) (30 min)
+	- 🔴 [[Distinct Subsequences]] (2-D Dynamic Programming) (45 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2026-12-28
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Unique Paths]] (this week); [[House Robber]] (last week); [[Combinations]] (2 weeks ago); [[Max Area of Island]] (4 weeks ago)
 	- 20:30–21:30 System design recall: redraw three designs from weeks 1-4 cold (10 min each) and list 3 deep dives per design, then the AI-75 quiz on weak sections
@@ -943,8 +943,8 @@ Rest day.
 
 ### Tue 29 Dec 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-29
-	- 🟡 [[Target Sum]] (2-D Dynamic Programming) (30 min)
-	- 🟡 [[Interleaving String]] (2-D Dynamic Programming) (30 min)
+	- 🟡 [[Permutations]] (Backtracking) (30 min)
+	- 🟡 [[Subsets II]] (Backtracking) (30 min)
 - [ ] 19:30–21:30 · LeetCode: 2-D Dynamic Programming, Greedy (4 problems) 📅 2026-12-29
 	- 19:30–20:00 🟡 [[Unique Paths II]] (2-D Dynamic Programming) (30 min)
 	- 20:00–20:30 🟡 [[Minimum Path Sum]] (2-D Dynamic Programming) (30 min)
@@ -953,9 +953,9 @@ Rest day.
 	- 21:10–21:30 Wrap-up and buffer: add anything you could not solve alone to the Fumbled list in [[STUDYPLAN]]; tick each problem in its section note
 
 ### Wed 30 Dec 2026
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-30
-	- 🟡 [[Stone Game]] (2-D Dynamic Programming) (30 min)
-	- 🟡 [[Stone Game II]] (2-D Dynamic Programming) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2026-12-30
+	- 🟡 [[Permutations II]] (Backtracking) (30 min)
+	- 🔴 [[Candy]] (Greedy) (45 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2026-12-30
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (Multimodal and speculative decoding), then check them against the answers
 	- 19:45–20:15 Read the [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/11-ai-system-design/README|AI system design crash course]]
@@ -963,8 +963,8 @@ Rest day.
 
 ### Thu 31 Dec 2026
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2026-12-31
-	- 🟡 [[Edit Distance]] (2-D Dynamic Programming) (30 min)
-	- 🟡 [[Longest Turbulent Subarray]] (Greedy) (30 min)
+	- 🟡 [[Generate Parentheses]] (Backtracking) (30 min)
+	- 🟡 [[Word Search]] (Backtracking) (30 min)
 - [ ] 19:30–21:30 · ML coding: agent project (MCP and batch evals) 📅 2026-12-31
 	- 19:30–20:30 Stretch goal: put the order data behind an MCP server and connect the agent to it with the SDK's MCP helpers
 	- 20:30–21:30 Stretch goal: run the eval cases asynchronously, then try the Message Batches API and compare cost and time
@@ -998,9 +998,9 @@ Rest day.
 	- 15:55–16:00 Redraw the architecture from memory and write 3 takeaways in the Fumbled list
 
 ### Mon 4 Jan 2027
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2027-01-04
-	- 🟡 [[Jump Game]] (Greedy) (30 min)
-	- 🟡 [[Jump Game II]] (Greedy) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2027-01-04
+	- 🟡 [[Palindrome Partitioning]] (Backtracking) (30 min)
+	- 🔴 [[Burst Balloons]] (2-D Dynamic Programming) (45 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2027-01-04
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Maximum Subarray]] (this week); [[Longest Palindromic Substring]] (last week); [[House Robber]] (2 weeks ago); [[Rotting Oranges]] (4 weeks ago)
 	- 20:30–21:30 System design recall: redraw three designs from weeks 5-8 cold (10 min each), then the AI-75 quiz on weak sections
@@ -1014,8 +1014,8 @@ Rest day.
 
 ### Tue 5 Jan 2027
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2027-01-05
-	- 🟡 [[Jump Game VII]] (Greedy) (30 min)
-	- 🟡 [[Gas Station]] (Greedy) (30 min)
+	- 🟡 [[Letter Combinations of a Phone Number]] (Backtracking) (30 min)
+	- 🟡 [[Matchsticks to Square]] (Backtracking) (30 min)
 - [ ] 19:30–21:30 · LeetCode: Greedy, Intervals, Math & Geometry, Bit Manipulation (5 problems) 📅 2027-01-05
 	- 19:30–20:00 🟡 [[Maximum Sum Circular Subarray]] (Greedy) (30 min)
 	- 20:00–20:30 🟡 [[Insert Interval]] (Intervals) (30 min)
@@ -1025,18 +1025,18 @@ Rest day.
 	- 21:00–21:30 Wrap-up and buffer: add anything you could not solve alone to the Fumbled list in [[STUDYPLAN]]; tick each problem in its section note
 
 ### Wed 6 Jan 2027
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2027-01-06
-	- 🟡 [[Hand of Straights]] (Greedy) (30 min)
-	- 🟡 [[Dota2 Senate]] (Greedy) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2027-01-06
+	- 🟡 [[Partition to K Equal Sum Subsets]] (Backtracking) (30 min)
+	- 🔴 [[Meeting Rooms III]] (Intervals) (45 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2027-01-06
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (AI case studies (support agent, text-to-SQL)), then check them against the answers
 	- 19:45–20:30 Timed case study mock, 60 min: [[10-llm-gateway-and-serving-platform|LLM gateway & serving]]: design out loud on a blank board, then compare
 	- 20:30–21:30 Timed case study mock, 60 min: [[02-ai-code-assistant|AI code assistant]]: design out loud on a blank board, then compare
 
 ### Thu 7 Jan 2027
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2027-01-07
-	- 🟡 [[Merge Triplets to Form Target Triplet]] (Greedy) (30 min)
-	- 🟡 [[Partition Labels]] (Greedy) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2027-01-07
+	- 🟡 [[Network Delay Time]] (Advanced Graphs) (30 min)
+	- 🔴 [[Minimum Interval to Include Each Query]] (Intervals) (45 min)
 - [ ] 19:30–21:30 · ML coding: agent project (Agent SDK and reviewer agent) 📅 2027-01-07
 	- 19:30–20:30 Stretch goal: rebuild the same task with the Claude Agent SDK and write down what each approach gives you
 	- 20:30–21:30 Stretch goal: add a reviewer agent that checks refund decisions, and write down when multi-agent is worth it
@@ -1071,8 +1071,8 @@ Rest day.
 
 ### Mon 11 Jan 2027
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2027-01-11
-	- 🟡 [[Valid Parenthesis String]] (Greedy) (30 min)
-	- 🟡 [[Merge Intervals]] (Intervals) (30 min)
+	- 🟡 [[Min Cost to Connect All Points]] (Advanced Graphs) (30 min)
+	- 🟡 [[Cheapest Flights Within K Stops]] (Advanced Graphs) (30 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2027-01-11
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes. Do these (swap in anything from your Fumbled list): [[Insert Interval]] (this week); [[Minimum Path Sum]] (last week); [[Unique Paths]] (2 weeks ago); [[Combination Sum II]] (4 weeks ago)
 	- 20:30–21:30 ML coding: write multi-head attention and a training loop from memory (30 min), then a Pandas window-function problem (30 min)
@@ -1085,9 +1085,9 @@ Rest day.
 **Focus:** LoRA and beam search, behavioral and company research · general design mocks · LeetCode: timed coding rounds
 
 ### Tue 12 Jan 2027
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 40 min in total, any time that suits you) 📅 2027-01-12
-	- 🟡 [[Non Overlapping Intervals]] (Intervals) (30 min)
-	- 🟢 [[Meeting Rooms]] (Intervals) (10 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2027-01-12
+	- 🟡 [[Palindromic Substrings]] (1-D Dynamic Programming) (30 min)
+	- 🔴 [[Regular Expression Matching]] (2-D Dynamic Programming) (45 min)
 - [ ] 19:30–21:30 · LeetCode: timed practice round (1 easy + 3 medium, interview conditions) 📅 2027-01-12
 	- 19:30–19:40 🟢 [[Merge Strings Alternately]] (Two Pointers): 10 min, then stop and write down your approach and complexity
 	- 19:40–20:10 🟡 [[Min Stack]] (Stack): 30 min, then stop and write down your approach and complexity
@@ -1097,17 +1097,17 @@ Rest day.
 
 ### Wed 13 Jan 2027
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2027-01-13
-	- 🟡 [[Meeting Rooms II]] (Intervals) (30 min)
-	- 🟡 [[Insert Greatest Common Divisors in Linked List]] (Math & Geometry) (30 min)
+	- 🟡 [[Decode Ways]] (1-D Dynamic Programming) (30 min)
+	- 🟡 [[Coin Change]] (1-D Dynamic Programming) (30 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2027-01-13
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (AI-assisted interviews), then check them against the answers
 	- 19:45–20:15 Read the [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/13-interview-process-and-behavioral/README|Behavioral & interview process crash course]]
 	- 20:15–21:30 Write your 5-7 STAR stories in full; see [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/13-interview-process-and-behavioral/questions|Behavioral & interview process questions]]
 
 ### Thu 14 Jan 2027
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 40 min in total, any time that suits you) 📅 2027-01-14
-	- 🟢 [[Transpose Matrix]] (Math & Geometry) (10 min)
-	- 🟡 [[Rotate Image]] (Math & Geometry) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2027-01-14
+	- 🟡 [[Maximum Product Subarray]] (1-D Dynamic Programming) (30 min)
+	- 🔴 [[Alien Dictionary]] (Advanced Graphs) (45 min)
 - [ ] 19:30–21:30 · ML coding: LoRA and beam search 📅 2027-01-14
 	- 19:30–20:30 [[Pytorch]]: LoRA adapter from scratch (see `14_lora_adapter.py`): low-rank matrices, scaling, freezing the base weights
 	- 20:30–21:30 Implement beam search (see `15_beam_search.py`) and compare it with sampling
@@ -1143,8 +1143,8 @@ Rest day.
 
 ### Mon 18 Jan 2027
 - [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2027-01-18
-	- 🟡 [[Spiral Matrix]] (Math & Geometry) (30 min)
-	- 🟡 [[Set Matrix Zeroes]] (Math & Geometry) (30 min)
+	- 🟡 [[Word Break]] (1-D Dynamic Programming) (30 min)
+	- 🟡 [[Longest Increasing Subsequence]] (1-D Dynamic Programming) (30 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2027-01-18
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes, the 4 problems you scored worst on in the timed rounds or that sit on your Fumbled list
 	- 20:30–21:30 AI-assisted interview: do one more practice session with the Hello Interview tutorial, then review your agent project README
@@ -1157,9 +1157,9 @@ Rest day.
 **Focus:** Timed mocks and final review · general design mocks · LeetCode: timed coding rounds
 
 ### Tue 19 Jan 2027
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 20 min in total, any time that suits you) 📅 2027-01-19
-	- 🟢 [[Happy Number]] (Math & Geometry) (10 min)
-	- 🟢 [[Plus One]] (Math & Geometry) (10 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2027-01-19
+	- 🟡 [[Partition Equal Subset Sum]] (1-D Dynamic Programming) (30 min)
+	- 🔴 [[Find Critical and Pseudo Critical Edges in Minimum Spanning Tree]] (Advanced Graphs) (45 min)
 - [ ] 19:30–21:30 · LeetCode: timed practice round (1 easy + 3 medium, interview conditions) 📅 2027-01-19
 	- 19:30–19:40 🟢 [[Kth Largest Element In a Stream]] (Heap - Priority Queue): 10 min, then stop and write down your approach and complexity
 	- 19:40–20:10 🟡 [[Insert into a Binary Search Tree]] (Trees): 30 min, then stop and write down your approach and complexity
@@ -1168,17 +1168,17 @@ Rest day.
 	- 21:10–21:30 Review: read each Solution, note what you missed, add failures to the Fumbled list
 
 ### Wed 20 Jan 2027
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 40 min in total, any time that suits you) 📅 2027-01-20
-	- 🟢 [[Roman to Integer]] (Math & Geometry) (10 min)
-	- 🟡 [[Pow(x, n)]] (Math & Geometry) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2027-01-20
+	- 🟡 [[Combination Sum IV]] (1-D Dynamic Programming) (30 min)
+	- 🟡 [[Perfect Squares]] (1-D Dynamic Programming) (30 min)
 - [ ] 19:30–21:30 · AI fundamentals 📅 2027-01-20
 	- 19:30–19:45 Recall (spaced review, 15 min): without notes, re-answer out loud the questions you flagged from the last AI session (Company research), then check them against the answers
 	- 19:45–21:30 Full pass over every unticked item in [[ML Prep/AI Fundamentals/AI-Engineer-Interview-Questions/AI-ENGINEER-75|AI Engineer 75]]: answer cold, re-read what you miss
 
 ### Thu 21 Jan 2027
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 60 min in total, any time that suits you) 📅 2027-01-21
-	- 🟡 [[Multiply Strings]] (Math & Geometry) (30 min)
-	- 🟡 [[Detect Squares]] (Math & Geometry) (30 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2027-01-21
+	- 🟡 [[Integer Break]] (1-D Dynamic Programming) (30 min)
+	- 🔴 [[Build a Matrix With Conditions]] (Advanced Graphs) (45 min)
 - [ ] 19:30–21:30 · ML coding: timed mocks 📅 2027-01-21
 	- 19:30–20:30 Timed mock: build a small tool-calling agent from scratch in 60 minutes (tools, loop, one guardrail, three test conversations) without looking at your project
 	- 20:30–21:30 Timed mock: one NumPy/Pandas problem (30 min) and writing a PyTorch training loop from memory (30 min)
@@ -1212,9 +1212,9 @@ Rest day.
 	- 15:40–16:00 Redraw the high-level design from memory
 
 ### Mon 25 Jan 2027
-- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 20 min in total, any time that suits you) 📅 2027-01-25
-	- 🟢 [[Number of 1 Bits]] (Bit Manipulation) (10 min)
-	- 🟢 [[Counting Bits]] (Bit Manipulation) (10 min)
+- [ ] Before 19:00 · Daytime LeetCode (2 problems, about 75 min in total, any time that suits you) 📅 2027-01-25
+	- 🟡 [[Longest Common Subsequence]] (2-D Dynamic Programming) (30 min)
+	- 🔴 [[Greatest Common Divisor Traversal]] (Advanced Graphs) (45 min)
 - [ ] 19:30–21:30 · Weekly review (spaced repetition) 📅 2027-01-25
 	- 19:30–20:30 Spaced coding review: redo cold, 15 min each, no notes, the 4 problems you scored worst on in the timed rounds or that sit on your Fumbled list
 	- 20:30–21:30 Final prep: read the [[CHEATSHEET]] (30 min), then re-read your Fumbled list in [[STUDYPLAN]] and re-answer the 10 worst items out loud (30 min)

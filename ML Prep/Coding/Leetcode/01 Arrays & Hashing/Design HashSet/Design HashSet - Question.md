@@ -47,17 +47,24 @@ Explanation: removing a missing key is a no-op.
 class MyHashSet:
 
 	def __init__(self):
-		pass  # your code here
+		self.size = 1009
+		self.bucket_ = [[] for _ in range(self.size)]
 
 	def add(self, key: int) -> None:
-		pass  # your code here
+		bucket = self.bucket_[key % self.size]
+		if key not in bucket:
+			self.bucket_[key % self.size].append(key)
 
 	def remove(self, key: int) -> None:
-		pass  # your code here
+		bucket = self.bucket_[key % self.size]
+		if key in bucket:
+			self.bucket_[key % self.size].remove(key)
 
 	def contains(self, key: int) -> bool:
-		pass  # your code here
-
+		bucket = self.bucket_[key % self.size]
+		if key in bucket:
+			return True
+		return False
 
 if __name__ == "__main__":
 	hs = MyHashSet()

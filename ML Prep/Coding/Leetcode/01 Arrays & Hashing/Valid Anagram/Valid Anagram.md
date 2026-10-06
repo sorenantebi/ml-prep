@@ -10,5 +10,10 @@ Output: true
 ```
 
 ```python
+from collections import Counter
+return Counter(s) == Counter(t)
 
+# or use bins where you do count[ord(char) - ord('a')] += 1
+# char = some number 'a' = 65, so if 'a' --> 65 - 65 = 0
+# 'b' - 'a' = 1 etc
 ```

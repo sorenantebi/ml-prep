@@ -11,5 +11,5 @@ Explanation: the value 1 occurs at indices 0 and 3.
 ```
 
 ```python
-
+return len(set(nums)) != len(nums)
 ```

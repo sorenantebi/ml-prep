@@ -10,5 +10,13 @@ Output: "fl"
 ```
 
 ```python
+# use the first word as a reference, and look through the rest of the words, if you reach an i that is out of bounds or a char that isnt equal exit
 
+ref = strs[0]
+for i in range(len(ref)):
+	for word in strs[1:]:
+		if i >= len(word) or word[i] != ref[i]:
+			return ref[:i]
+return ref
+		
 ```

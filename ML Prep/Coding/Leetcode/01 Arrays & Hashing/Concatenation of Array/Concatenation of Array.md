@@ -10,5 +10,7 @@ Output: [1,2,1,1,2,1]
 ```
 
 ```python
-
+# int array nums of len n
+# output: ans of len 2n, consisting of nums + nums
+return nums + nums
 ```

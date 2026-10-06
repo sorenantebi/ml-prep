@@ -10,5 +10,15 @@ Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 ```
 
 ```python
+# create bin representation of the words using ord(char) - ord('a') and frequency. use a dict to store the tuple representation of the bins
+hashmap = defaultdict(list)
+
+for word in strs:
+	bin_ = [0] * 26
+	for c in word:
+		bin_[ord(c) - ord('a')] += 1
+	hashmap[tuple(bin_)].append(word)
+return hashmap.values()
+
 
 ```

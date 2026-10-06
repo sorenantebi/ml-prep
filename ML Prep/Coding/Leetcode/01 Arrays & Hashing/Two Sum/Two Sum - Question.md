@@ -51,7 +51,11 @@ from typing import List
 
 class Solution:
 	def twoSum(self, nums: List[int], target: int) -> List[int]:
-		pass  # your code here
+		hashmap = {}
+		for i, num in enumerate(nums):
+			if target - num in hashmap:
+				return [hashmap[target - num], i]
+			hashmap[num] = i
 
 
 if __name__ == "__main__":

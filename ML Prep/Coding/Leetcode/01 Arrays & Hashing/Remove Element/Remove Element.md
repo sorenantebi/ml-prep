@@ -10,5 +10,14 @@ Output: 2, nums = [2,2,_,_]
 ```
 
 ```python
+# loop through with two pointers, one to keep track of the insertion index and one to loop through
+# if you come across a number that is not val, put it into the insertion index and increment
+l = 0
+
+for r in range(len(nums)):
+	if nums[r] != val:
+		nums[l] = val
+		l += 1
+return l
 
 ```

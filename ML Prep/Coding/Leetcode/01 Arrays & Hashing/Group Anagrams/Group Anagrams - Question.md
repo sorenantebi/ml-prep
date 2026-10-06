@@ -48,7 +48,15 @@ from typing import List
 
 class Solution:
 	def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-		pass  # your code here
+		from collections import defaultdict
+		hashmap = defaultdict(list)
+
+		for word in strs:
+			bin_ = [0] * 26
+			for c in word:
+				bin_[ord(c) - ord('a')] += 1
+			hashmap[tuple(bin_)].append(word)
+		return hashmap.values()
 
 
 def normalize(groups):

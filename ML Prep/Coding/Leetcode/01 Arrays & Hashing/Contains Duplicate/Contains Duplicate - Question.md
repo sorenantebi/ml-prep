@@ -48,7 +48,7 @@ from typing import List
 
 class Solution:
 	def containsDuplicate(self, nums: List[int]) -> bool:
-		pass  # your code here
+		return len(set(nums)) != len(nums)
 
 
 if __name__ == "__main__":

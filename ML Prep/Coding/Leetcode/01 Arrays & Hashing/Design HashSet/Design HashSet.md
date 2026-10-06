@@ -16,5 +16,11 @@ Output: [null,null,null,true,false,null,true,null,false]
 ```
 
 ```python
+# create buckets to store the key numbers in using % self.size, and then first index the correct bucket based on the key, and then find the key 
+# set, not map
+bucket_ = [[] for _ in range(self.size)]
 
+bucket = bucket_[key % 1009]
+if key not in bucket:
+	bucket_[key % 1009].append(key)
 ```

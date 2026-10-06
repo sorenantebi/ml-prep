@@ -41,7 +41,7 @@ from typing import List
 
 class Solution:
 	def getConcatenation(self, nums: List[int]) -> List[int]:
-		pass  # your code here
+		return nums + nums
 
 
 if __name__ == "__main__":
